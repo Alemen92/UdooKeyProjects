@@ -1,0 +1,2 @@
+Passi per giro da datasheet : 2038
+Passi per giro calcolati : 510
